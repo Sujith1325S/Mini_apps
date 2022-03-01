@@ -15,7 +15,7 @@ bookings = [
 ]
 
 users = [
-{"userId":"1","password":"1234","userName":"Nivi"}
+{"userId":"1","password":"1234","userName":"Sujith"}
 ]
 
 def adminhome(): #Admin Home
