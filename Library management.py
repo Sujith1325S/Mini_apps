@@ -1,7 +1,7 @@
 import os
 import random as rd
-users = {'Nivi':'1234','Nivetha':'1234'}
-us = ['Nivi']
+users = {'Sujith':'1234','Suji':'1234'}
+us = ['SUJITH']
 admin_his = list()
 books = [{'name':'dictinory','count':2,'id':'B4'},{'name':'tamil','count':5,'id':'B2'},{'name':'english','count':4,'id':'B7'}]
 def adding_books():
