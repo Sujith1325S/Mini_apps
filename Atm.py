@@ -1,5 +1,5 @@
 atm_balance=124300
-users=[["Nivi",1234,123400],["nivi",2345,234500],["NIVI",3456,34500],["nivetha",4567,45600],["GANA SRI",1325,500000]]
+users=[["SUJITH",1234,123400],["SARATHI",2345,234500],["SANKAR",3456,34500],["SUPRIYA",4567,45600],["GANASRI",1325,500000]]
 l=None
 amount=[100,200,500,2000]
 number=[0,0,0,0]
@@ -252,7 +252,7 @@ if(c==1):
         pi=int(input("Enter your 4 digit pin number:"))
         print("Please Enter to continue!!!")
         input()
-        if(st=="Nivetha"):
+        if(st=="Sujith"):
             if(pi==1325):
                 atm_balance=admin(atm_balance)
                 break
