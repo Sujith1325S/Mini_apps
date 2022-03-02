@@ -4,7 +4,7 @@ newretail_pass = []
 products = [{'pid':1,"sellerid":1,"price":3000,"decs":"iphone","disc":10,'stock':100},
 {'pid':2,"sellerid":2,"price":3500,"decs":"tv","disc":30,'stock':100},
 {'pid':2,"sellerid":3,"price":4000,"decs":"tv","disc":15,'stock':100}]
-sales_id = {1:'Nivi',2:'nivi',3:'RS'}
+sales_id = {1:'Suji',2:'sujith',3:'Sujith'}
 retailer_users = {'Sujith':'12345','suji':'67890','SUJITH':'12121'}
 users = {'Nivetha':1234}
 an = list()
